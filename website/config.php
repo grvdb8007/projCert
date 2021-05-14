@@ -8,12 +8,12 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Simple Google Website',
         'nav_menu' => [
             '' => 'Home',
-            'content/about-us.php' => 'About Us',
-            'content/products.php' => 'Products',
-            'content/contact.php' => 'Contact',
+            'content/about-us.php' => 'Gaurav',
+            'content/products.php' => 'Kumar',
+            'content/contact.php' => 'Dubey',
         ],
         'template_path' => 'template',
         'content_path' => 'content',
